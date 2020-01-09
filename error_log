@@ -1,0 +1,18 @@
+[14-Apr-2018 16:18:23 UTC] PHP Warning:  include(../private/functions.php): failed to open stream: No such file or directory in /home/jjinnovationnepa/public_html/index.php on line 3
+[14-Apr-2018 16:18:23 UTC] PHP Warning:  include(): Failed opening '../private/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/jjinnovationnepa/public_html/index.php on line 3
+[14-Apr-2018 16:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connectdatabase() in /home/jjinnovationnepa/public_html/index.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/jjinnovationnepa/public_html/index.php on line 86
+[14-Apr-2018 16:18:24 UTC] PHP Warning:  include(../private/functions.php): failed to open stream: No such file or directory in /home/jjinnovationnepa/public_html/index.php on line 3
+[14-Apr-2018 16:18:24 UTC] PHP Warning:  include(): Failed opening '../private/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/jjinnovationnepa/public_html/index.php on line 3
+[14-Apr-2018 16:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connectdatabase() in /home/jjinnovationnepa/public_html/index.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/jjinnovationnepa/public_html/index.php on line 86
+[14-Apr-2018 16:19:38 UTC] PHP Warning:  include(private/functions.php): failed to open stream: No such file or directory in /home/jjinnovationnepa/public_html/index.php on line 3
+[14-Apr-2018 16:19:38 UTC] PHP Warning:  include(): Failed opening 'private/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/jjinnovationnepa/public_html/index.php on line 3
+[14-Apr-2018 16:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connectdatabase() in /home/jjinnovationnepa/public_html/index.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/jjinnovationnepa/public_html/index.php on line 86
